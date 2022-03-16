@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="dragon.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2301" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="172" />
+			<Collapse line="999" />
+			<Collapse line="1018" />
+			<Collapse line="1064" />
+			<Collapse line="1091" />
+			<Collapse line="1153" />
+			<Collapse line="1299" />
+			<Collapse line="1309" />
+			<Collapse line="1325" />
+			<Collapse line="1343" />
+			<Collapse line="1353" />
+			<Collapse line="1367" />
+			<Collapse line="1392" />
+			<Collapse line="1401" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
